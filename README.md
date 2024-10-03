@@ -8,7 +8,7 @@ Adivinhe: Digite um número entre 1 e 100 e clique em "OK".
 Dicas: O jogo te dará dicas para te guiar na direção certa!
 Venceu: Quando acertar o número secreto, você será o grande campeão!
 ️
-Tecnologias:
+**Tecnologias:**
 * HTML
 * CSS
 * JavaScript
