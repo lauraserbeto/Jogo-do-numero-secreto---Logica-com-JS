@@ -4,7 +4,7 @@
 
 **Como jogar:**
 
-1. Digite um número entre 1 e 100 e clique em "OK".
+1. Digite um número entre 1 e (número informado) e clique em "OK".
 
 2. O jogo te dará dicas para te guiar na direção certa!
 
